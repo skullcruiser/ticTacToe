@@ -44,6 +44,7 @@ This is a graphical implementation of the classic Tic-Tac-Toe game where a user 
 ## Screenshots
 
 ![Game Screenshot](screenshot1.png)
+![Game Screenshot](screenshot2.png)
 
 ## License
 
