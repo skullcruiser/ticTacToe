@@ -1,5 +1,5 @@
 
-# Tic-Tac-Toe AI Game 
+# Tic-Tac-Toe AI Game
 
 This is a graphical implementation of the classic Tic-Tac-Toe game where a user can play against an AI opponent powered by the Minimax algorithm with alpha-beta pruning.
 
